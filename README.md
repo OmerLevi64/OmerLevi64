@@ -1,16 +1,23 @@
-## Hi there 👋
+![3D AI banner](banner.webp)
 
-<!--
-**OmerLevi64/OmerLevi64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Abu 👋
 
-Here are some ideas to get you started:
+**AI developer** crafting practical tooling for building with AI — prompt templates, Python utilities, and engineering guides.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured project
+
+### [ai-dev-toolkit](https://github.com/OmerLevi64/ai-dev-toolkit)
+Practical toolkit for developers building with AI — curated prompt templates, Python utilities, and engineering guides. Fully tested, CI-green, MIT licensed.
+
+## 🛠️ Tech focus
+
+`Python` · `Prompt Engineering` · `AI-assisted Development` · `GitHub Actions`
+
+## 📈 GitHub stats
+
+![Abu's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmerLevi64&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmerLevi64&layout=compact&theme=tokyonight)
+
+## 💬 Ask me about
+
+AI tooling, prompt engineering, Python utilities — or anything in [ai-dev-toolkit](https://github.com/OmerLevi64/ai-dev-toolkit).
